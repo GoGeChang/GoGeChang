@@ -1,22 +1,7 @@
-<!--
-**GoGechang/GoGechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>你好，我是GoGechang.👋</h2>
-
-  <div style="display: flex; justify-content: space-around;align-items: center; flex: 1 1 auto">
-    <img style="height: 300px;   width: 50%;"
-      src="https://github-readme-stats.vercel.app/api?username=GoGechang&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-    <img style="height: 300px; width: 50%;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoGechang&theme=tokyonight">
-  </div>
+| <a href="https://github.com/gogechang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoGechang&count_private=true&show_icons=true&hide_border=true" alt="gogechang的github" /></a> | <a href="https://github.com/gogechang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogechang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
