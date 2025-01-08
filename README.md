@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm GoGechang.👋</h2>
+<h2>你好，我是GoGechang.👋</h2>
 
-<img style="wdith:100%" src = "https://github-readme-stats.vercel.app/api?username=GoGechang&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-<p style="wdith:100%" align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GoGechang&theme=tokyonight">
-</p>
-
-
+  <div style="display: flex; justify-content: space-around;align-items: center; flex: 1 1 auto">
+    <img style="height: 300px;   width: 50%;"
+      src="https://github-readme-stats.vercel.app/api?username=GoGechang&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+    <img style="height: 300px; width: 50%;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoGechang&theme=tokyonight">
+  </div>
